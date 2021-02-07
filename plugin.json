@@ -1,0 +1,23 @@
+{
+  "slug": "TestPlugin",
+  "name": "TestPlugin",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "TestPlugin",
+  "author": "Fergus Waugh",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "TestModule",
+      "name": "TestModule",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
